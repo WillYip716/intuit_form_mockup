@@ -1,0 +1,25 @@
+
+#signup_wrapper{
+    width:380px;
+    height: 673px;
+    border: 2px solid black;
+    margin:auto;
+
+}
+
+
+#topbar{
+    height:60px;
+}
+
+#company{
+    height:125px;
+}
+
+#legal{
+    height: 100px;
+}
+
+body{
+    text-align: center;
+}
